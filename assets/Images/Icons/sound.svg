@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wind copy 2</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Approach-xxl" transform="translate(-736.000000, -3017.000000)" stroke="#2E5A82" stroke-width="2">
+            <g id="wind-copy-2" transform="translate(737.072155, 3018.000000)">
+                <path d="M5.92784512,0 C10.3461231,-8.11624501e-16 13.9278451,3.581722 13.9278451,8 C13.9278451,12.418278 10.3461231,16 5.92784512,16 L5.92784512,16 L5.92784512,16" id="Rectangle-Copy-5"></path>
+                <path d="M5.92784512,4 C8.13698412,4 9.92784512,5.790861 9.92784512,8 C9.92784512,10.209139 8.13698412,12 5.92784512,12 L5.92784512,12 L5.92784512,12" id="Rectangle-Copy-5"></path>
+                <polyline id="Path-5" stroke-linejoin="round" points="2 6 0 8 2 10"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

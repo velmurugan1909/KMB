@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-right</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right" stroke="#71717A" stroke-width="3">
+            <line x1="0" y1="16.067279" x2="20" y2="16.067279" id="Path-2"></line>
+            <polyline id="Path-3" stroke-linejoin="round" points="17 4 29 16 17 28"></polyline>
+        </g>
+    </g>
+</svg>

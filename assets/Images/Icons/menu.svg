@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu</title>
+    <defs>
+        <clipPath id="menuClip">
+            <rect x="0" y="0" width="24" height="25" />
+        </clipPath>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#menuClip)">
+        <g id="menu" stroke="#971B2F" stroke-width="2">
+            <line x1="0" y1="0.5" x2="24" y2="0.5" id="Path-2"></line>
+            <line x1="0" y1="24.5" x2="24" y2="24.5" id="Path-2-Copy"></line>
+            <line x1="0" y1="12.5" x2="24" y2="12.5" id="Path-2-Copy-2"></line>
+        </g>
+    </g>
+</svg>
